@@ -22,72 +22,57 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hello-Wolrd ](#-hello-wolrd-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Felipe Portfolio <a name="about-project"></a>
+# 📖 Javed Portfolio <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is my Poerfolio project from Microverse and its the first step to have our own portfolio.
 
-**Felipe Portfolio** is a responsive webpage who can open in mobile and desktop too.
+**Mobile** is simply a HTML & CSS based project that develops our understanding with professional portfolio. This also include many configuration
+settings to keep my code clean.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-HTML5  CSS3
+> This projet used for only
 
-
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-
-- **LOVE**
-- **PASSION**
-- **CODING**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+-   **It is helpful in understanding the basics of a portfolio**
+-   **This project provide modern approach toward the web development.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,20 +80,15 @@ HTML5  CSS3
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
-Create a GitHub acount an clone this repository
 
 ### Prerequisites
 
 In order to run this project you need:
 
-a Browser who support Html5 and Css3
-
-<!--
-Example command:
-
-```sh
+<!-- Example command: ```sh 
  gem install rails
 ```
  -->
@@ -117,9 +97,63 @@ Example command:
 
 Clone this repository to your desired folder:
 
+<!--
+Example commands:
 
-  cd my-folder
+```sh
+  cd portfolio-folder
   git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd Hello-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,25 +161,11 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Javed Shahbaz**
 
-👤 **Felipe Haybar**
-
-- GitHub: [@Feliverse](https://github.com/Feliverse)
-- Twitter: [@FelipeHaybar](https://twitter.com/FelipeHaybar)
-- LinkedIn: [felipehaybar](https://linkedin.com/in/felipehaybar)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **projects**
-- [ ] **about section**
-- [ ] **formulary**
+-   GitHub: [https://github.com/Javed-Shahbaz)
+-   Twitter: [https://twitter.com/javedshahbaz007)
+-   LinkedIn: [https://www.linkedin.com/in/javed-shahbaz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,7 +175,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check my repository in GitHub.
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,31 +183,14 @@ Feel free to check my repository in GitHub.
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-
-If you like this project bring me a star in GitHub
+If you like this project please star in here on Github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank to my code partners who inspared me to do a better code.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is Felipe Haybar licensed.
-
-_NOTE: we recommend using the Felipe Haybar (https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use MicroverseInc(https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
