@@ -145,8 +145,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
-
+https://javed-shahbaz.github.io/Desktop-portfolio/
 <!--
 Example:
 
